@@ -1,5 +1,5 @@
 class Lasagna < Formula
-  @@version = "0.0.2"
+  @@version = "0.0.3"
   @@organisation = "TheKeyholdingCompany"
   @@app_name = "lasagna"
   desc "A CLI tool to build your lambda layer zip for you."
