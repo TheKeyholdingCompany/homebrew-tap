@@ -1,11 +1,11 @@
 class Lasagna < Formula
-  @@version = "0.0.3"
+  @@version = "0.0.4"
   @@organisation = "TheKeyholdingCompany"
   @@app_name = "lasagna"
   desc "A CLI tool to build your lambda layer zip for you."
   homepage "https://github.com/#{@@organisation}/#{@@app_name}"
   url "https://github.com/#{@@organisation}/#{@@app_name}/archive/refs/tags/#{@@version}.tar.gz"
-  sha256 "3cb36d7d5b82fa7b04003265ba1b1fe147ff3ff12dfd976cfe76a7be315ff9b6"
+  sha256 "a030716c789f207f88b1d818286e34ddc619928d1ed1d8cbd626c46c70dc09c8"
   license "Apache Licence, Version 2.0"
   head "https://github.com/#{@@organisation}/#{@@app_name}"
   
