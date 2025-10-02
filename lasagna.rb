@@ -5,7 +5,7 @@ class Lasagna < Formula
   desc "A CLI tool to build your lambda layer zip for you."
   homepage "https://github.com/#{@@organisation}/#{@@app_name}"
   url "https://github.com/#{@@organisation}/#{@@app_name}/archive/refs/tags/#{@@version}.tar.gz"
-  sha256 "d782f35d29d359ad8bfb02f5ba2ab35ed27575822029a4831c190bc5c4a14e00"
+  sha256 "d58ee1c7995205e28626830b9234a7e45b5dc84d30516727c212c4510d9f4167"
   license "Apache Licence, Version 2.0"
   head "https://github.com/#{@@organisation}/#{@@app_name}"
   
